@@ -26,4 +26,4 @@ Its a simple real time quotes. Made with socket.io, nodejs and express.js.
 
 ## Credits
 
-[Nodejsera] (https://github.com/nodejsera/30daysofnode)
+<a href="https://github.com/nodejsera/30daysofnode">Nodejsera</a>
