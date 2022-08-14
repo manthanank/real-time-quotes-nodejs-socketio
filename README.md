@@ -22,3 +22,8 @@ Its a simple real time quotes. Made with socket.io, nodejs and express.js.
 ## Running the project
 
     $ node server.js
+
+
+## Credits
+
+[Nodejsera] (https://github.com/nodejsera/30daysofnode)
